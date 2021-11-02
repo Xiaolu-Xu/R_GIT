@@ -14,7 +14,7 @@ ui <- fluidPage(
   
   # Application title
   titlePanel("new version"),
-  titlePanel("version A"),
+  titlePanel("version b"),
   
   
 )

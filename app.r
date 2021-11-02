@@ -13,7 +13,7 @@ library(shiny)
 ui <- fluidPage(
   
   # Application title
-  titlePanel("new version"),
+  titlePanel("new version DEMO"),
   titlePanel("version b"),
   
   
